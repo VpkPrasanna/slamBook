@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "650692199012",
+    "firebase_url": "https://slambook-7f729.firebaseio.com",
+    "project_id": "slambook-7f729",
+    "storage_bucket": "slambook-7f729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650692199012:android:71d3f5c1654b2414",
+        "android_client_info": {
+          "package_name": "com.example.prasanna.slambook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650692199012-3rabdolequ377s9mmcu6fimp9cbs52hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prasanna.slambook",
+            "certificate_hash": "66e1fbf5f194e6c3662dcd5f6efb23cbdaf0dc85"
+          }
+        },
+        {
+          "client_id": "650692199012-g6d9u0ot5e57k7cpauioff1833ffc8v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLwcpDPF4nqOq1vmVg6ViM7Hp7yicSUTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650692199012-g6d9u0ot5e57k7cpauioff1833ffc8v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
